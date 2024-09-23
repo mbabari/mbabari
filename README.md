@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 ### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbabari&layout=compact)
-### Github Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mbabari&theme=dark" width="48%" >
